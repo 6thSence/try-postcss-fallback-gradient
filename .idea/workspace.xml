@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bb49794-aad6-4da1-a13b-7f31a0095641" name="Default" comment="" />
+    <ignored path="linear-grad-fallback.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="linear-grad-fallback" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="utils.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2851296">
+              <caret line="156" column="46" selection-start-line="156" selection-start-column="46" selection-end-line="156" selection-end-column="46" />
+              <folding>
+                <element signature="e#218#538#0" expanded="false" />
+                <element signature="e#413#528#0" expanded="false" />
+                <element signature="e#578#850#0" expanded="false" />
+                <element signature="e#887#1184#0" expanded="false" />
+                <element signature="e#1240#1534#0" expanded="false" />
+                <element signature="e#1586#2013#0" expanded="false" />
+                <element signature="e#2061#2946#0" expanded="false" />
+                <element signature="e#3001#5197#0" expanded="false" />
+                <element signature="e#5246#5597#0" expanded="false" />
+                <element signature="e#5643#5938#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/bin/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="128" column="76" selection-start-line="128" selection-start-column="76" selection-end-line="128" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="in.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/in.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.607142">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3571428">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crayola.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/crayola.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.0">
+              <caret line="558" column="16" selection-start-line="558" selection-start-column="16" selection-end-line="558" selection-end-column="16" />
+              <folding>
+                <marker date="1456742772000" expanded="true" signature="3:49" placeholder="{&quot;name&quot;: &quot;aliceblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="52:101" placeholder="{&quot;name&quot;: &quot;antiquewhite&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="104:145" placeholder="{&quot;name&quot;: &quot;aqua&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="148:195" placeholder="{&quot;name&quot;: &quot;aquamarine&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="198:240" placeholder="{&quot;name&quot;: &quot;azure&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="243:285" placeholder="{&quot;name&quot;: &quot;beige&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="288:331" placeholder="{&quot;name&quot;: &quot;bisque&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="334:376" placeholder="{&quot;name&quot;: &quot;black&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="379:430" placeholder="{&quot;name&quot;: &quot;blanchedalmond&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="433:474" placeholder="{&quot;name&quot;: &quot;blue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="477:524" placeholder="{&quot;name&quot;: &quot;blueviolet&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="527:569" placeholder="{&quot;name&quot;: &quot;brown&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="572:618" placeholder="{&quot;name&quot;: &quot;burlywood&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="621:667" placeholder="{&quot;name&quot;: &quot;cadetblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="670:717" placeholder="{&quot;name&quot;: &quot;chartreuse&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="720:766" placeholder="{&quot;name&quot;: &quot;chocolate&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="769:811" placeholder="{&quot;name&quot;: &quot;coral&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="814:865" placeholder="{&quot;name&quot;: &quot;cornflowerblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="868:913" placeholder="{&quot;name&quot;: &quot;cornsilk&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="916:960" placeholder="{&quot;name&quot;: &quot;crimson&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="963:1004" placeholder="{&quot;name&quot;: &quot;cyan&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1007:1052" placeholder="{&quot;name&quot;: &quot;darkblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1055:1100" placeholder="{&quot;name&quot;: &quot;darkcyan&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1103:1153" placeholder="{&quot;name&quot;: &quot;darkgoldenrod&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1156:1201" placeholder="{&quot;name&quot;: &quot;darkgray&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1204:1250" placeholder="{&quot;name&quot;: &quot;darkgreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1253:1299" placeholder="{&quot;name&quot;: &quot;darkkhaki&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1302:1350" placeholder="{&quot;name&quot;: &quot;darkmagenta&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1353:1404" placeholder="{&quot;name&quot;: &quot;darkolivegreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1407:1454" placeholder="{&quot;name&quot;: &quot;darkorange&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1457:1504" placeholder="{&quot;name&quot;: &quot;darkorchid&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1507:1551" placeholder="{&quot;name&quot;: &quot;darkred&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1554:1601" placeholder="{&quot;name&quot;: &quot;darksalmon&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1604:1653" placeholder="{&quot;name&quot;: &quot;darkseagreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1656:1706" placeholder="{&quot;name&quot;: &quot;darkslateblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1709:1759" placeholder="{&quot;name&quot;: &quot;darkslategray&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1762:1812" placeholder="{&quot;name&quot;: &quot;darkturquoise&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1815:1862" placeholder="{&quot;name&quot;: &quot;darkviolet&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1865:1910" placeholder="{&quot;name&quot;: &quot;deeppink&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1913:1961" placeholder="{&quot;name&quot;: &quot;deepskyblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="1964:2008" placeholder="{&quot;name&quot;: &quot;dimgray&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2011:2058" placeholder="{&quot;name&quot;: &quot;dodgerblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2061:2107" placeholder="{&quot;name&quot;: &quot;firebrick&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2110:2158" placeholder="{&quot;name&quot;: &quot;floralwhite&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2161:2209" placeholder="{&quot;name&quot;: &quot;forestgreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2212:2256" placeholder="{&quot;name&quot;: &quot;fuchsia&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2259:2305" placeholder="{&quot;name&quot;: &quot;gainsboro&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2308:2355" placeholder="{&quot;name&quot;: &quot;ghostwhite&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2358:2399" placeholder="{&quot;name&quot;: &quot;gold&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2402:2448" placeholder="{&quot;name&quot;: &quot;goldenrod&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2451:2492" placeholder="{&quot;name&quot;: &quot;gray&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2495:2537" placeholder="{&quot;name&quot;: &quot;green&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2540:2588" placeholder="{&quot;name&quot;: &quot;greenyellow&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2591:2636" placeholder="{&quot;name&quot;: &quot;honeydew&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2639:2683" placeholder="{&quot;name&quot;: &quot;hotpink&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2686:2732" placeholder="{&quot;name&quot;: &quot;indianred&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2735:2778" placeholder="{&quot;name&quot;: &quot;indigo&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2781:2823" placeholder="{&quot;name&quot;: &quot;ivory&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2826:2868" placeholder="{&quot;name&quot;: &quot;khaki&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2871:2916" placeholder="{&quot;name&quot;: &quot;lavender&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2919:2969" placeholder="{&quot;name&quot;: &quot;lavenderblush&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="2972:3018" placeholder="{&quot;name&quot;: &quot;lawngreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3021:3070" placeholder="{&quot;name&quot;: &quot;lemonchiffon&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3073:3119" placeholder="{&quot;name&quot;: &quot;lightblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3122:3169" placeholder="{&quot;name&quot;: &quot;lightcoral&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3172:3218" placeholder="{&quot;name&quot;: &quot;lightcyan&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3221:3278" placeholder="{&quot;name&quot;: &quot;lightgoldenrodyellow&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3281:3328" placeholder="{&quot;name&quot;: &quot;lightgreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3331:3377" placeholder="{&quot;name&quot;: &quot;lightgrey&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3380:3426" placeholder="{&quot;name&quot;: &quot;lightpink&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3429:3477" placeholder="{&quot;name&quot;: &quot;lightsalmon&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3480:3530" placeholder="{&quot;name&quot;: &quot;lightseagreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3533:3582" placeholder="{&quot;name&quot;: &quot;lightskyblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3585:3636" placeholder="{&quot;name&quot;: &quot;lightslategray&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3639:3690" placeholder="{&quot;name&quot;: &quot;lightsteelblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3693:3741" placeholder="{&quot;name&quot;: &quot;lightyellow&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3744:3785" placeholder="{&quot;name&quot;: &quot;lime&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3788:3834" placeholder="{&quot;name&quot;: &quot;limegreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3837:3879" placeholder="{&quot;name&quot;: &quot;linen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3882:3926" placeholder="{&quot;name&quot;: &quot;magenta&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3929:3972" placeholder="{&quot;name&quot;: &quot;maroon&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="3975:4028" placeholder="{&quot;name&quot;: &quot;mediumaquamarine&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4031:4078" placeholder="{&quot;name&quot;: &quot;mediumblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4081:4130" placeholder="{&quot;name&quot;: &quot;mediumorchid&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4133:4182" placeholder="{&quot;name&quot;: &quot;mediumpurple&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4185:4236" placeholder="{&quot;name&quot;: &quot;mediumseagreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4239:4291" placeholder="{&quot;name&quot;: &quot;mediumslateblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4294:4348" placeholder="{&quot;name&quot;: &quot;mediumspringgreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4351:4403" placeholder="{&quot;name&quot;: &quot;mediumturquoise&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4406:4458" placeholder="{&quot;name&quot;: &quot;mediumvioletred&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4461:4510" placeholder="{&quot;name&quot;: &quot;midnightblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4513:4559" placeholder="{&quot;name&quot;: &quot;mintcream&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4562:4608" placeholder="{&quot;name&quot;: &quot;mistyrose&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4611:4656" placeholder="{&quot;name&quot;: &quot;moccasin&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4659:4707" placeholder="{&quot;name&quot;: &quot;navajowhite&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4710:4751" placeholder="{&quot;name&quot;: &quot;navy&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4754:4798" placeholder="{&quot;name&quot;: &quot;oldlace&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4801:4843" placeholder="{&quot;name&quot;: &quot;olive&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4846:4892" placeholder="{&quot;name&quot;: &quot;olivedrab&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4895:4938" placeholder="{&quot;name&quot;: &quot;orange&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4941:4987" placeholder="{&quot;name&quot;: &quot;orangered&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="4990:5033" placeholder="{&quot;name&quot;: &quot;orchid&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5036:5086" placeholder="{&quot;name&quot;: &quot;palegoldenrod&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5089:5135" placeholder="{&quot;name&quot;: &quot;palegreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5138:5188" placeholder="{&quot;name&quot;: &quot;paleturquoise&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5191:5241" placeholder="{&quot;name&quot;: &quot;palevioletred&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5244:5291" placeholder="{&quot;name&quot;: &quot;papayawhip&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5294:5340" placeholder="{&quot;name&quot;: &quot;peachpuff&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5343:5384" placeholder="{&quot;name&quot;: &quot;peru&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5387:5428" placeholder="{&quot;name&quot;: &quot;pink&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5431:5472" placeholder="{&quot;name&quot;: &quot;plum&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5475:5522" placeholder="{&quot;name&quot;: &quot;powderblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5525:5568" placeholder="{&quot;name&quot;: &quot;purple&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5571:5611" placeholder="{&quot;name&quot;: &quot;red&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5614:5660" placeholder="{&quot;name&quot;: &quot;rosybrown&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5663:5709" placeholder="{&quot;name&quot;: &quot;royalblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5712:5760" placeholder="{&quot;name&quot;: &quot;saddlebrown&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5763:5806" placeholder="{&quot;name&quot;: &quot;salmon&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5809:5856" placeholder="{&quot;name&quot;: &quot;sandybrown&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5859:5904" placeholder="{&quot;name&quot;: &quot;seagreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5907:5952" placeholder="{&quot;name&quot;: &quot;seashell&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="5955:5998" placeholder="{&quot;name&quot;: &quot;sienna&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6001:6044" placeholder="{&quot;name&quot;: &quot;silver&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6047:6091" placeholder="{&quot;name&quot;: &quot;skyblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6094:6140" placeholder="{&quot;name&quot;: &quot;slateblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6143:6189" placeholder="{&quot;name&quot;: &quot;slategray&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6192:6233" placeholder="{&quot;name&quot;: &quot;snow&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6236:6284" placeholder="{&quot;name&quot;: &quot;springgreen&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6287:6333" placeholder="{&quot;name&quot;: &quot;steelblue&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6336:6376" placeholder="{&quot;name&quot;: &quot;tan&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6379:6420" placeholder="{&quot;name&quot;: &quot;teal&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6423:6467" placeholder="{&quot;name&quot;: &quot;thistle&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6470:6513" placeholder="{&quot;name&quot;: &quot;tomato&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6516:6562" placeholder="{&quot;name&quot;: &quot;turquoise&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6565:6608" placeholder="{&quot;name&quot;: &quot;violet&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6611:6653" placeholder="{&quot;name&quot;: &quot;wheat&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6656:6698" placeholder="{&quot;name&quot;: &quot;white&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6701:6748" placeholder="{&quot;name&quot;: &quot;whitesmoke&quot;...}" />
+                <marker date="1456742772000" expanded="true" signature="6751:6794" placeholder="{&quot;name&quot;: &quot;yellow&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/postcss-fallback-gradient/utils.js" />
+        <option value="$PROJECT_DIR$/node_modules/postcss-fallback-gradient/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/postcss-fallback-gradient/gulpfile.js" />
+        <option value="$PROJECT_DIR$/node_modules/postcss-fallback-gradient/package.json" />
+        <option value="$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/crayola.json" />
+        <option value="$PROJECT_DIR$/out.css" />
+        <option value="$PROJECT_DIR$/node_modules/postcss-fallback-gradient/bin/utils.js" />
+        <option value="$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/utils.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>default</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-201" />
+    <option name="y" value="-1200" />
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linear-grad-fallback" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linear-grad-fallback" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linear-grad-fallback" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linear-grad-fallback" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linear-grad-fallback" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcss-fallback-gradient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linear-grad-fallback" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linear-grad-fallback" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcss-fallback-gradient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linear-grad-fallback" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linear-grad-fallback" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcss-fallback-gradient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linear-grad-fallback" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linear-grad-fallback" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../business-landing/contentLanding" />
+    <property name="FullScreen" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js-jscs-package" value="/usr/local/lib/node_modules/jscs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib" />
+      <recent name="$PROJECT_DIR$/node_modules/postcss-fallback-gradient/bin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bb49794-aad6-4da1-a13b-7f31a0095641" name="Default" comment="" />
+      <created>1456392917479</created>
+      <option name="number" value="Default" />
+      <updated>1456392917479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-201" y="-1200" width="1920" height="1200" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18378094" sideWeight="0.51486486" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18378094" sideWeight="0.48513514" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18378094" sideWeight="0.5175676" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24907847" sideWeight="0.49275362" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3106884" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24907847" sideWeight="0.5072464" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971016" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#218#538#0" expanded="false" />
+            <element signature="e#413#528#0" expanded="false" />
+            <element signature="e#578#850#0" expanded="false" />
+            <element signature="e#887#1184#0" expanded="false" />
+            <element signature="e#1240#1534#0" expanded="false" />
+            <element signature="e#1586#2013#0" expanded="false" />
+            <element signature="e#2061#2946#0" expanded="false" />
+            <element signature="e#3001#5197#0" expanded="false" />
+            <element signature="e#5246#5597#0" expanded="false" />
+            <element signature="e#5643#5938#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/bin/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="257" column="13" selection-start-line="257" selection-start-column="13" selection-end-line="257" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/bin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#281#1709#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#218#538#0" expanded="false" />
+            <element signature="e#413#528#0" expanded="false" />
+            <element signature="e#578#850#0" expanded="false" />
+            <element signature="e#887#1184#0" expanded="false" />
+            <element signature="e#1240#1534#0" expanded="false" />
+            <element signature="e#1586#2013#0" expanded="false" />
+            <element signature="e#2061#2946#0" expanded="false" />
+            <element signature="e#3001#5197#0" expanded="false" />
+            <element signature="e#5246#5597#0" expanded="false" />
+            <element signature="e#5643#5938#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/bin/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="257" column="13" selection-start-line="257" selection-start-column="13" selection-end-line="257" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/bin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#281#1709#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#218#538#0" expanded="false" />
+            <element signature="e#413#528#0" expanded="false" />
+            <element signature="e#578#850#0" expanded="false" />
+            <element signature="e#887#1184#0" expanded="false" />
+            <element signature="e#1240#1534#0" expanded="false" />
+            <element signature="e#1586#2013#0" expanded="false" />
+            <element signature="e#2061#2946#0" expanded="false" />
+            <element signature="e#3001#5197#0" expanded="false" />
+            <element signature="e#5246#5597#0" expanded="false" />
+            <element signature="e#5643#5938#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/bin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#281#1709#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss/lib/at-rule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6952248">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.110948905">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.053370785">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/bin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3571428">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/crayola.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.0">
+          <caret line="558" column="16" selection-start-line="558" selection-start-column="16" selection-end-line="558" selection-end-column="16" />
+          <folding>
+            <marker date="1456742772000" expanded="true" signature="3:49" placeholder="{&quot;name&quot;: &quot;aliceblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="52:101" placeholder="{&quot;name&quot;: &quot;antiquewhite&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="104:145" placeholder="{&quot;name&quot;: &quot;aqua&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="148:195" placeholder="{&quot;name&quot;: &quot;aquamarine&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="198:240" placeholder="{&quot;name&quot;: &quot;azure&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="243:285" placeholder="{&quot;name&quot;: &quot;beige&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="288:331" placeholder="{&quot;name&quot;: &quot;bisque&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="334:376" placeholder="{&quot;name&quot;: &quot;black&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="379:430" placeholder="{&quot;name&quot;: &quot;blanchedalmond&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="433:474" placeholder="{&quot;name&quot;: &quot;blue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="477:524" placeholder="{&quot;name&quot;: &quot;blueviolet&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="527:569" placeholder="{&quot;name&quot;: &quot;brown&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="572:618" placeholder="{&quot;name&quot;: &quot;burlywood&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="621:667" placeholder="{&quot;name&quot;: &quot;cadetblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="670:717" placeholder="{&quot;name&quot;: &quot;chartreuse&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="720:766" placeholder="{&quot;name&quot;: &quot;chocolate&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="769:811" placeholder="{&quot;name&quot;: &quot;coral&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="814:865" placeholder="{&quot;name&quot;: &quot;cornflowerblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="868:913" placeholder="{&quot;name&quot;: &quot;cornsilk&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="916:960" placeholder="{&quot;name&quot;: &quot;crimson&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="963:1004" placeholder="{&quot;name&quot;: &quot;cyan&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1007:1052" placeholder="{&quot;name&quot;: &quot;darkblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1055:1100" placeholder="{&quot;name&quot;: &quot;darkcyan&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1103:1153" placeholder="{&quot;name&quot;: &quot;darkgoldenrod&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1156:1201" placeholder="{&quot;name&quot;: &quot;darkgray&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1204:1250" placeholder="{&quot;name&quot;: &quot;darkgreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1253:1299" placeholder="{&quot;name&quot;: &quot;darkkhaki&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1302:1350" placeholder="{&quot;name&quot;: &quot;darkmagenta&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1353:1404" placeholder="{&quot;name&quot;: &quot;darkolivegreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1407:1454" placeholder="{&quot;name&quot;: &quot;darkorange&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1457:1504" placeholder="{&quot;name&quot;: &quot;darkorchid&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1507:1551" placeholder="{&quot;name&quot;: &quot;darkred&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1554:1601" placeholder="{&quot;name&quot;: &quot;darksalmon&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1604:1653" placeholder="{&quot;name&quot;: &quot;darkseagreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1656:1706" placeholder="{&quot;name&quot;: &quot;darkslateblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1709:1759" placeholder="{&quot;name&quot;: &quot;darkslategray&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1762:1812" placeholder="{&quot;name&quot;: &quot;darkturquoise&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1815:1862" placeholder="{&quot;name&quot;: &quot;darkviolet&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1865:1910" placeholder="{&quot;name&quot;: &quot;deeppink&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1913:1961" placeholder="{&quot;name&quot;: &quot;deepskyblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="1964:2008" placeholder="{&quot;name&quot;: &quot;dimgray&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2011:2058" placeholder="{&quot;name&quot;: &quot;dodgerblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2061:2107" placeholder="{&quot;name&quot;: &quot;firebrick&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2110:2158" placeholder="{&quot;name&quot;: &quot;floralwhite&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2161:2209" placeholder="{&quot;name&quot;: &quot;forestgreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2212:2256" placeholder="{&quot;name&quot;: &quot;fuchsia&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2259:2305" placeholder="{&quot;name&quot;: &quot;gainsboro&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2308:2355" placeholder="{&quot;name&quot;: &quot;ghostwhite&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2358:2399" placeholder="{&quot;name&quot;: &quot;gold&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2402:2448" placeholder="{&quot;name&quot;: &quot;goldenrod&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2451:2492" placeholder="{&quot;name&quot;: &quot;gray&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2495:2537" placeholder="{&quot;name&quot;: &quot;green&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2540:2588" placeholder="{&quot;name&quot;: &quot;greenyellow&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2591:2636" placeholder="{&quot;name&quot;: &quot;honeydew&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2639:2683" placeholder="{&quot;name&quot;: &quot;hotpink&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2686:2732" placeholder="{&quot;name&quot;: &quot;indianred&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2735:2778" placeholder="{&quot;name&quot;: &quot;indigo&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2781:2823" placeholder="{&quot;name&quot;: &quot;ivory&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2826:2868" placeholder="{&quot;name&quot;: &quot;khaki&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2871:2916" placeholder="{&quot;name&quot;: &quot;lavender&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2919:2969" placeholder="{&quot;name&quot;: &quot;lavenderblush&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="2972:3018" placeholder="{&quot;name&quot;: &quot;lawngreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3021:3070" placeholder="{&quot;name&quot;: &quot;lemonchiffon&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3073:3119" placeholder="{&quot;name&quot;: &quot;lightblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3122:3169" placeholder="{&quot;name&quot;: &quot;lightcoral&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3172:3218" placeholder="{&quot;name&quot;: &quot;lightcyan&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3221:3278" placeholder="{&quot;name&quot;: &quot;lightgoldenrodyellow&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3281:3328" placeholder="{&quot;name&quot;: &quot;lightgreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3331:3377" placeholder="{&quot;name&quot;: &quot;lightgrey&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3380:3426" placeholder="{&quot;name&quot;: &quot;lightpink&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3429:3477" placeholder="{&quot;name&quot;: &quot;lightsalmon&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3480:3530" placeholder="{&quot;name&quot;: &quot;lightseagreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3533:3582" placeholder="{&quot;name&quot;: &quot;lightskyblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3585:3636" placeholder="{&quot;name&quot;: &quot;lightslategray&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3639:3690" placeholder="{&quot;name&quot;: &quot;lightsteelblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3693:3741" placeholder="{&quot;name&quot;: &quot;lightyellow&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3744:3785" placeholder="{&quot;name&quot;: &quot;lime&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3788:3834" placeholder="{&quot;name&quot;: &quot;limegreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3837:3879" placeholder="{&quot;name&quot;: &quot;linen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3882:3926" placeholder="{&quot;name&quot;: &quot;magenta&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3929:3972" placeholder="{&quot;name&quot;: &quot;maroon&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="3975:4028" placeholder="{&quot;name&quot;: &quot;mediumaquamarine&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4031:4078" placeholder="{&quot;name&quot;: &quot;mediumblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4081:4130" placeholder="{&quot;name&quot;: &quot;mediumorchid&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4133:4182" placeholder="{&quot;name&quot;: &quot;mediumpurple&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4185:4236" placeholder="{&quot;name&quot;: &quot;mediumseagreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4239:4291" placeholder="{&quot;name&quot;: &quot;mediumslateblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4294:4348" placeholder="{&quot;name&quot;: &quot;mediumspringgreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4351:4403" placeholder="{&quot;name&quot;: &quot;mediumturquoise&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4406:4458" placeholder="{&quot;name&quot;: &quot;mediumvioletred&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4461:4510" placeholder="{&quot;name&quot;: &quot;midnightblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4513:4559" placeholder="{&quot;name&quot;: &quot;mintcream&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4562:4608" placeholder="{&quot;name&quot;: &quot;mistyrose&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4611:4656" placeholder="{&quot;name&quot;: &quot;moccasin&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4659:4707" placeholder="{&quot;name&quot;: &quot;navajowhite&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4710:4751" placeholder="{&quot;name&quot;: &quot;navy&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4754:4798" placeholder="{&quot;name&quot;: &quot;oldlace&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4801:4843" placeholder="{&quot;name&quot;: &quot;olive&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4846:4892" placeholder="{&quot;name&quot;: &quot;olivedrab&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4895:4938" placeholder="{&quot;name&quot;: &quot;orange&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4941:4987" placeholder="{&quot;name&quot;: &quot;orangered&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="4990:5033" placeholder="{&quot;name&quot;: &quot;orchid&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5036:5086" placeholder="{&quot;name&quot;: &quot;palegoldenrod&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5089:5135" placeholder="{&quot;name&quot;: &quot;palegreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5138:5188" placeholder="{&quot;name&quot;: &quot;paleturquoise&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5191:5241" placeholder="{&quot;name&quot;: &quot;palevioletred&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5244:5291" placeholder="{&quot;name&quot;: &quot;papayawhip&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5294:5340" placeholder="{&quot;name&quot;: &quot;peachpuff&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5343:5384" placeholder="{&quot;name&quot;: &quot;peru&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5387:5428" placeholder="{&quot;name&quot;: &quot;pink&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5431:5472" placeholder="{&quot;name&quot;: &quot;plum&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5475:5522" placeholder="{&quot;name&quot;: &quot;powderblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5525:5568" placeholder="{&quot;name&quot;: &quot;purple&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5571:5611" placeholder="{&quot;name&quot;: &quot;red&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5614:5660" placeholder="{&quot;name&quot;: &quot;rosybrown&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5663:5709" placeholder="{&quot;name&quot;: &quot;royalblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5712:5760" placeholder="{&quot;name&quot;: &quot;saddlebrown&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5763:5806" placeholder="{&quot;name&quot;: &quot;salmon&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5809:5856" placeholder="{&quot;name&quot;: &quot;sandybrown&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5859:5904" placeholder="{&quot;name&quot;: &quot;seagreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5907:5952" placeholder="{&quot;name&quot;: &quot;seashell&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="5955:5998" placeholder="{&quot;name&quot;: &quot;sienna&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6001:6044" placeholder="{&quot;name&quot;: &quot;silver&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6047:6091" placeholder="{&quot;name&quot;: &quot;skyblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6094:6140" placeholder="{&quot;name&quot;: &quot;slateblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6143:6189" placeholder="{&quot;name&quot;: &quot;slategray&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6192:6233" placeholder="{&quot;name&quot;: &quot;snow&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6236:6284" placeholder="{&quot;name&quot;: &quot;springgreen&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6287:6333" placeholder="{&quot;name&quot;: &quot;steelblue&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6336:6376" placeholder="{&quot;name&quot;: &quot;tan&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6379:6420" placeholder="{&quot;name&quot;: &quot;teal&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6423:6467" placeholder="{&quot;name&quot;: &quot;thistle&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6470:6513" placeholder="{&quot;name&quot;: &quot;tomato&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6516:6562" placeholder="{&quot;name&quot;: &quot;turquoise&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6565:6608" placeholder="{&quot;name&quot;: &quot;violet&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6611:6653" placeholder="{&quot;name&quot;: &quot;wheat&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6656:6698" placeholder="{&quot;name&quot;: &quot;white&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6701:6748" placeholder="{&quot;name&quot;: &quot;whitesmoke&quot;...}" />
+            <marker date="1456742772000" expanded="true" signature="6751:6794" placeholder="{&quot;name&quot;: &quot;yellow&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.607142">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/bin/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="128" column="76" selection-start-line="128" selection-start-column="76" selection-end-line="128" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20212767">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#281#1709#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/postcss-fallback-gradient/lib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2851296">
+          <caret line="156" column="46" selection-start-line="156" selection-start-column="46" selection-end-line="156" selection-end-column="46" />
+          <folding>
+            <element signature="e#218#538#0" expanded="false" />
+            <element signature="e#413#528#0" expanded="false" />
+            <element signature="e#578#850#0" expanded="false" />
+            <element signature="e#887#1184#0" expanded="false" />
+            <element signature="e#1240#1534#0" expanded="false" />
+            <element signature="e#1586#2013#0" expanded="false" />
+            <element signature="e#2061#2946#0" expanded="false" />
+            <element signature="e#3001#5197#0" expanded="false" />
+            <element signature="e#5246#5597#0" expanded="false" />
+            <element signature="e#5643#5938#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
